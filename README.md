@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there 👋  
+Saya **Adams**, lulusan **SMK – Rekayasa Perangkat Lunak (RPL)**  
+Saya tertarik di bidang **Frontend Web Development** dan sedang aktif membangun project web.
 
-<!--
-**Adams2691/Adams2691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Keahlian
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (DOM, basic logic)
+- Git & GitHub
+- Basic UI/UX Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📂 Project
+- 🌐 **Personal Portfolio Website**  
+  👉 https://adams2691.github.io  
+  Teknologi: HTML, CSS, JavaScript
+
+- 📱 **Simple Web App**  
+  Fitur: form validation, interaksi DOM
+
+---
+
+### 🎓 Pendidikan
+- **SMK – Rekayasa Perangkat Lunak (RPL)**  
+  Fokus pada pembuatan aplikasi dan website
+
+---
+
+### 📫 Kontak
+- GitHub: https://github.com/Adams2691  
+- Email: ada266102@gmail.com
+
+---
+
+✨ Terbuka untuk **magang / kerja junior frontend / freelance**
